@@ -1,0 +1,29 @@
+#cookiechoice-wrapper-outer {
+	position: fixed;
+	right: 0;
+	left: 0;
+	zIndex: 1030;
+	margin: 0px;
+	padding: 0px;
+}
+				
+#cookiechoice-wrapper-inner {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	padding: 10px 0px 10px 10px;
+	color: #fff;
+	background-color: #5a5a5a;
+}
+
+#cookiechoice-wrapper-inner a {
+	color: #fff;
+}
+
+#cookiechoice-link-confirm {
+	
+}
+
+#cookiechoice-link-info {
+	float: right;
+	padding-right: 10px;
+}
